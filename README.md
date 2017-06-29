@@ -1,7 +1,10 @@
 # Italki messages
 
 ## Overview
-Script for sending a message to a lot of people on [Italki](https://www.italki.com/home). Preferably that was supposed to be for looking for native speakers, but you can send your messages whoever you want to.
+Script for sending a message to a lot of people on [Italki](https://www.italki.com/home). 
+
+Preferably that was created for looking for native speakers, but you can send your message whoever you want to.
+
 Sending speed - **6 sec/account**.
 
 ## How to use
