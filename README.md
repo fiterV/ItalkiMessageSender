@@ -1,7 +1,8 @@
-#Italki message sender
+# Italki messages
 
 ## Overview
 Script for sending a message to a lot of people on [Italki](https://www.italki.com/home). Preferably that was supposed to be for looking for native speakers, but you can send your messages whoever you want to.
+Sending speed - **6 sec/account**.
 
 ## How to use
 For example link to user account looks like - [https://www.italki.com/user/1438448](https://www.italki.com/user/1438448) , you should take all of that **/user/1438448** part of link and put it into **list.txt** .
@@ -13,11 +14,10 @@ Example of **list.txt** :
 ```
 
 ## How to run
-To get help:
 ```
 python2 main.py --help
 ```
-help:
+
 ```
 usage: main.py [-h] [-e EMAIL] [-p PASSWORD] [-M MESSAGE]
 
